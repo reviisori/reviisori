@@ -8,14 +8,15 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 - 🎈 Projects that I have done:
 
-     🔘 [fillit](https://github.com/reviisori/fillit)
-     🔘 [get_next_line](https://github.com/reviisori/gnl)
-     🔘 [libft](https://github.com/reviisori/libft)
+     - 🔘 [fillit](https://github.com/reviisori/fillit)
+     - 🔘 [get_next_line](https://github.com/reviisori/gnl)
+     - 🔘 [libft](https://github.com/reviisori/libft)
 
-     👾 [hive's game jam 2022](https://amiddst.itch.io/slates)
+     - 👾 [hive's game jam 2022](https://amiddst.itch.io/slates)
 
 - 🌱 At the moment I'm learning C language, have basic knowledge in Java and am interested in Python and Rust
 
+- 📫 How to reach me: altikka@student.hive.fi
 <!--
 **reviisori/reviisori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
