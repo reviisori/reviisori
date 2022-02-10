@@ -14,8 +14,7 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
      👾 [hive's game jam 2022](https://amiddst.itch.io/slates)
 
-- 🌱 At the moment I'm learning C language, 
-     have basic knowledge in Java and am interested in Python and Rust
+- 🌱 At the moment I'm learning C language, have basic knowledge in Java and am interested in Python and Rust
 
 <!--
 **reviisori/reviisori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
