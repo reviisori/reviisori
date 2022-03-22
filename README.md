@@ -4,8 +4,7 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 [![altikka's 42 stats](https://badge42.herokuapp.com/api/stats/altikka?cursus=42)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on [init](https://github.com/reviisori/init)
-
+- 🔭 I’m currently working on [init](https://github.com/reviisori/init) and Hive Arena 🐝
 - 🎈 Projects that I have done:
 
      - 🔘 [fillit](https://github.com/reviisori/fillit)
