@@ -11,8 +11,7 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
      - 🔘 [fillit](https://github.com/reviisori/fillit)
      - 🔘 [get_next_line](https://github.com/reviisori/gnl)
      - 🔘 [libft](https://github.com/reviisori/libft)
-
-
+     
      - 🐝 [hive arena 2022]
      - 🔡 [wordle assistant](https://github.com/reviisori/wordle)
      - 👾 [hive game jam 2022](https://amiddst.itch.io/slates)
