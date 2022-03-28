@@ -4,13 +4,15 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 [![altikka's 42 stats](https://badge42.herokuapp.com/api/stats/altikka?cursus=42)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on [init](https://github.com/reviisori/init) and Hive Arena 🐝
+- 🔭 I’m currently working on [roger-skyline-1]
 - 🎈 Projects that I have done:
 
+     - 🔘 [init](https://github.com/reviisori/init)
      - 🔘 [fillit](https://github.com/reviisori/fillit)
      - 🔘 [get_next_line](https://github.com/reviisori/gnl)
      - 🔘 [libft](https://github.com/reviisori/libft)
 
+     - 🐝 [hive arena]
      - 👾 [hive game jam 2022](https://amiddst.itch.io/slates)
 
 - 🌱 At the moment I'm learning C language, have basic knowledge in Java and am interested in Python and Rust
