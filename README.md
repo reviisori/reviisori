@@ -4,7 +4,7 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 [![altikka's 42 stats](https://badge42.herokuapp.com/api/stats/altikka?cursus=42)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on [roger-skyline-1](https://github.com/reviisori/roger-skyline-1)
+- 🔭 I’m currently working on [roger-skyline-1](https://github.com/reviisori/roger-skyline-1) & ft_printf(https://github.com/reviisori/ft_printf)
 - 🎈 Projects that I have done:
 
      - 🔘 [init](https://github.com/reviisori/init)
