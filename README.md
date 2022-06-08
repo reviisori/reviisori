@@ -13,7 +13,8 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
      
      - 🐝 [hive arena 2022](https://github.com/reviisori/hive-arena)    🔡 [wordle assistant](https://github.com/reviisori/wordle)    👾 [hive game jam 2022](https://amiddst.itch.io/slates)
 
-- 🌱 At the moment I'm learning C language and doing Full Stack Open. I have basic knowledge in Java and am interested in Python and Rust
+- 🌱 At the moment I'm learning C language and doing Full Stack Open.
+     I have basic knowledge in Java and am interested in Python and Rust
 
 - 📫 How to reach me: altikka@student.hive.fi
 <!--
