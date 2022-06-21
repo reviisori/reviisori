@@ -4,7 +4,7 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 [![altikka's 42 stats](https://badge42.vercel.app/api/v2/cl2stzbvf002509l4jovwoqqm/stats?cursusId=1&coalitionId=57)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently finishing [roger-skyline-1](https://github.com/reviisori/roger-skyline-1)
+- 🔭 I’m currently finishing [roger-skyline-1](https://github.com/reviisori/roger-skyline-1) and working on filler
 - 🎈 Projects that I have done:
 
      - 🤖 [ft_printf](https://github.com/reviisori/ft_printf)
