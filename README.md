@@ -4,10 +4,10 @@ Student at [Hive Helsinki](https://www.hive.fi/en/)
 
 [![altikka's 42 stats](https://badge42.vercel.app/api/v2/cl2stzbvf002509l4jovwoqqm/stats?cursusId=1&coalitionId=57)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently finishing [lem_in](https://github.com/reviisori/lem_in)
+- 🔭 I’m currently finishing [corewar](https://github.com/reviisori/corewar)
 - 🎈 Projects that I have done:
 
-     - 🤖 [filler](https://github.com/reviisori/filler) 🤖 [ft_printf](https://github.com/reviisori/ft_printf)
+     - 🤖 [lem_in](https://github.com/reviisori/lem_in) 🤖 [filler](https://github.com/reviisori/filler) 🤖 [ft_printf](https://github.com/reviisori/ft_printf)
      - 📠 [roger-skyline-1](https://github.com/reviisori/roger-skyline-1) 📠 [init](https://github.com/reviisori/init)
      - 🔘 [fillit](https://github.com/reviisori/fillit) 🔘 [get_next_line](https://github.com/reviisori/gnl) 🔘 [libft](https://github.com/reviisori/libft)
      
